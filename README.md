@@ -34,9 +34,9 @@ To-do list:
 
 ## Getting Started
 
-
-> git clone https://github.com/SudarsanRaut/Project1-CabBookingSystem.git  
-
+```
+ git clone https://github.com/SudarsanRaut/Project1-CabBookingSystem.git
+```
 
 
 -Right click on the project -> Click on `Run` as -> Then `Run on Server`
