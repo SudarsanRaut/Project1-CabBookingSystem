@@ -44,7 +44,7 @@ To-do list:
 ## Usage
 
 #### Entity Relationship (ER) Diagram
-![ER Diagram]()
+![ER Diagram](https://github.com/SudarsanRaut/Project1-CabBookingSystem/blob/018e0bd49a1bf3b0ee9eccfb0fc7ef1e38fa7e16/images/DB-Design.png)
 
 
 
