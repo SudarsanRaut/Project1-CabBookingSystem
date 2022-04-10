@@ -43,6 +43,9 @@ To-do list:
 
 ## Usage
 
+#### Entity Relationship (ER) Diagram
+![ER Diagram]()
+
 
 
 
